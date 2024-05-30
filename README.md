@@ -19,7 +19,7 @@ Course D361 from WGU's IT Management program is an advanced business administrat
 Income Statement: <br/>
 <img src="https://github.com/thethirdbirthday/d361_hskim/blob/619c8ddf5016d092a9660f6a095baff433023acb/images/d361_incomestatement.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
- 
+<p align="center">
 Balance Sheet: <br/>
 <img src="https://github.com/thethirdbirthday/d361_hskim/blob/48168d319a4585e15015672889b6572aa06288b3/images/d361_balancesheet.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
