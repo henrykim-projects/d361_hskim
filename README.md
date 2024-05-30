@@ -7,16 +7,16 @@ Course D361 from WGU's IT Management program is an advanced business administrat
 
 <h2>Relevent Courses/Skills Used</h2>
 
+- <b>Concepts in Sales, Marketing, and Customer Contact</b>
 - <b>Managing in a Global Business Environment</b>
 - <b>Operations and Supply Chain Management</b>
 - <b>Quantatative Analysis For Business</b>
 - <b>Compensation and Benefits</b>
-- <b>Project Management</b>
 
 <h2>Income Statement</h2>
 <p align="center">
 Create a Domain Controller VM in Virtual Box: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
  
 <p/>
@@ -25,7 +25,7 @@ Create a Domain Controller VM in Virtual Box: <br/>
 
 <p align="center">
 Create a Domain Controller VM in Virtual Box: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Active Directory Home Lab Steps"/>
+<img src="https://github.com/thethirdbirthday/d361_hskim/blob/48168d319a4585e15015672889b6572aa06288b3/images/d361_balancesheet.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
 
 </p>
