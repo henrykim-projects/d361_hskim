@@ -24,7 +24,7 @@ Create a Domain Controller VM in Virtual Box: <br/>
 <h2>Balance Sheet</h2>
 
 <p align="center">
-Create a Domain Controller VM in Virtual Box: <br/>
+Balance Sheet: <br/>
 <img src="https://github.com/thethirdbirthday/d361_hskim/blob/48168d319a4585e15015672889b6572aa06288b3/images/d361_balancesheet.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
 
