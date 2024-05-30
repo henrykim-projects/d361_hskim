@@ -13,17 +13,13 @@ Course D361 from WGU's IT Management program is an advanced business administrat
 - <b>Quantatative Analysis For Business</b>
 - <b>Compensation and Benefits</b>
 
-<h2>Income Statement</h2>
+<h2>Simulation Results</h2>
+
 <p align="center">
-Create a Domain Controller VM in Virtual Box: <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2e1a4e95db718910d63a04508dfda34b9c1a4962/ad_1.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
+Income Statement: <br/>
+<img src="https://github.com/thethirdbirthday/d361_hskim/blob/619c8ddf5016d092a9660f6a095baff433023acb/images/d361_incomestatement.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
  
-<p/>
-
-<h2>Balance Sheet</h2>
-
-<p align="center">
 Balance Sheet: <br/>
 <img src="https://github.com/thethirdbirthday/d361_hskim/blob/48168d319a4585e15015672889b6572aa06288b3/images/d361_balancesheet.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
