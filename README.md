@@ -24,6 +24,19 @@ Balance Sheet: <br/>
 <img src="https://github.com/thethirdbirthday/d361_hskim/blob/48168d319a4585e15015672889b6572aa06288b3/images/d361_balancesheet.PNG" height="80%" width="80%" alt="Business Simulation Results"/>
 <br />
 
+<h2>Business Perfromance Report</h2>
+
+<p align="center">
+Business Report detailing the financial analysis and reasoning behind decisions: <br/>
+<img src="https://github.com/thethirdbirthday/d361_hskim/blob/0d384b76833ef3271b25299c81534c427fbe4c95/images/d361_report_1.PNG" height="80%" width="80%" alt="Business Report"/>
+<br />
+<p align="center">
+<br/>
+<img src="https://github.com/thethirdbirthday/d361_hskim/blob/0d384b76833ef3271b25299c81534c427fbe4c95/images/d361_report_2.PNG" height="80%" width="80%" alt="Business Report"/>
+<br />
+<br/>
+<img src="https://github.com/thethirdbirthday/d361_hskim/blob/0d384b76833ef3271b25299c81534c427fbe4c95/images/d361_report_3.PNG" height="80%" width="80%" alt="Business Report"/>
+<br />
 </p>
 
 <!--
