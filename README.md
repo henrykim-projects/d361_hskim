@@ -10,7 +10,7 @@ Course D361 from WGU's IT Management program is an advanced business administrat
 - <b>Concepts in Sales, Marketing, and Customer Contact</b>
 - <b>Managing in a Global Business Environment</b>
 - <b>Operations and Supply Chain Management</b>
-- <b>Quantatative Analysis For Business</b>
+- <b>Quantitative Analysis For Business</b>
 - <b>Compensation and Benefits</b>
 
 <h2>Simulation Results</h2>
